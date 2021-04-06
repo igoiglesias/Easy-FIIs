@@ -1,0 +1,17 @@
+.menu-top li a {
+    text-decoration: none;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 18px;
+}
+
+.menu-top li a:hover {
+    text-decoration: none;
+    text-decoration-color: black;
+    padding-bottom: 20px;
+    border-bottom:1px solid black;
+    font-weight: bold;
+    padding-right: 7px;
+    padding-left: 7px;
+    font-size: 20px;
+}
